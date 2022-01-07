@@ -22,6 +22,9 @@ public class CreatePerson {
                 person.setProfile("Student");
 
                 System.out.println("My name is" + " " + person.getName());
+                System.out.println("My name is" + " " + person.getLastname());
+                System.out.println("My name is" + " " + person.getAge());
+                System.out.println("My name is" + " " + person.getProfile());
 
                persons.add(person);
             }
