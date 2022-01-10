@@ -1,4 +1,6 @@
-package com.example.PersonJava;
+package com.example.PersonJava.services;
+
+import com.example.PersonJava.entity.Person;
 
 import java.util.ArrayList;
 import java.util.List;

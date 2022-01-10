@@ -1,7 +1,6 @@
 package com.example.PersonJava;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+import com.example.PersonJava.services.CreatePerson;
 
 
 public class PersonJavaApplication {
