@@ -14,7 +14,6 @@ import java.util.Random;
 @Slf4j
 public class CreatePerson {
     @Autowired
-    static
     PersonRepository repository;
 
 
